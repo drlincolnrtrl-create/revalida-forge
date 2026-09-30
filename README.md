@@ -1,26 +1,26 @@
 # Revalida Forge
 
-Coleção aberta de skills para apoiar estudo e ensino de raciocínio clínico, com foco na preparação para o Revalida.
+An open collection of skills for studying and teaching clinical reasoning, with a focus on Revalida preparation.
 
-| Skill | Para que serve |
+| Skill | What it does |
 | --- | --- |
-| `estudo-revalida` | Planeja revisões ativas, metas e estudo espaçado. |
-| `professora-clinica` | Conduz explicações socráticas e aulas curtas. |
-| `resolucao-questoes-clinicas` | Resolve questões sem reduzir o processo ao gabarito. |
-| `hello-aprendizagem` | Faz acolhimento, entende o nível do aluno e inicia o percurso. |
+| `estudo-revalida` | Plans active reviews, goals, and spaced study. |
+| `professora-clinica` | Leads Socratic explanations and short teaching sessions. |
+| `resolucao-questoes-clinicas` | Works through questions without reducing the process to an answer key. |
+| `hello-aprendizagem` | Welcomes learners, understands their level, and starts a learning path. |
 
-## Instalação
+## Installation
 
-Copie a pasta da skill desejada dentro de `skills/` para o diretório de skills do seu agente. Cada pasta funciona de forma independente.
+Copy the desired skill folder from `skills/` into your agent's skills directory. Each folder works independently.
 
-## Princípios
+## Principles
 
-O material favorece raciocínio clínico, prática ativa e linguagem clara. É educacional: não substitui protocolos atualizados, supervisão docente ou atendimento de pacientes reais.
+The material favors clinical reasoning, active practice, and clear language. It is educational: it does not replace current protocols, teaching supervision, or care for real patients.
 
-## Contribuições
+## Contributing
 
-São bem-vindos melhorias de clareza, exemplos e correções. Não envie dados identificáveis de pacientes em issues ou pull requests.
+Clarity improvements, examples, and corrections are welcome. Do not include identifiable patient data in issues or pull requests.
 
-## Licença
+## License
 
-MIT. Veja [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

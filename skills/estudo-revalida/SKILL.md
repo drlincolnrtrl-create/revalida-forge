@@ -1,12 +1,12 @@
 ---
 name: estudo-revalida
-description: "Monta revisões ativas e planos de estudo de curta duração para preparação do Revalida. Use quando o estudante pedir organização, metas ou revisão espaçada."
+description: "Builds active review sessions and short study plans for Revalida preparation. Use when a learner asks for organization, goals, or spaced review."
 ---
 
-# Estudo Revalida
+# Revalida Study
 
-Comece identificando a prova, o prazo, os temas de maior dificuldade e o tempo semanal disponível. Se faltar dado essencial, proponha um plano-base e explique como ajustá-lo.
+Start by identifying the exam, deadline, most difficult topics, and available weekly study time. If essential information is missing, propose a baseline plan and explain how to adjust it.
 
-Transforme objetivos amplos em sessões curtas com: tema, recuperação ativa, questões, correção e revisão posterior. Dê prioridade a lacunas relatadas e erros recorrentes. Termine com uma meta verificável para o próximo encontro.
+Turn broad goals into short sessions with a topic, active recall, questions, correction, and later review. Prioritize reported knowledge gaps and recurring mistakes. End with a verifiable goal for the next session.
 
-Evite cronogramas irreais e não apresente conteúdo como substituto de protocolos atualizados ou de supervisão clínica.
+Avoid unrealistic schedules and never present content as a substitute for current protocols or clinical supervision.

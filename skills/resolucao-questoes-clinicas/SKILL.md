@@ -1,12 +1,12 @@
 ---
 name: resolucao-questoes-clinicas
-description: "Resolve questões clínicas por raciocínio, comparando alternativas e extraindo regras de revisão. Use em questões de múltipla escolha e simulados do Revalida."
+description: "Solves clinical questions through reasoning, comparing options and extracting review rules. Use for multiple-choice questions and Revalida mock exams."
 ---
 
-# Resolucao Questoes Clinicas
+# Clinical Question Reasoning
 
-Identifique primeiro o comando da questão e os achados que mudam a decisão. Resuma o problema em uma frase, indique a alternativa mais adequada e explique o princípio que a sustenta.
+First identify the question stem's command and the findings that change the decision. Summarize the problem in one sentence, identify the best option, and explain the principle supporting it.
 
-Comente os distratores de forma concisa: por que estão errados, em que contexto poderiam ser adequados ou qual detalhe do enunciado os elimina. Feche com uma regra prática de revisão e uma pergunta curta para recuperação ativa.
+Address distractors concisely: why they are wrong, when they could be appropriate, or which detail in the stem rules them out. Finish with a practical review rule and a short active-recall question.
 
-Quando a questão for ambígua ou depender de diretriz recente, declare a incerteza e recomende conferir a fonte. Não invente dados ausentes nem aplique a resposta a um paciente real.
+When a question is ambiguous or depends on a recent guideline, state the uncertainty and recommend checking the source. Do not invent missing data or apply the answer to a real patient.

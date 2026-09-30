@@ -1,8 +1,8 @@
 ---
 name: revalida-forge
-description: "Encaminha pedidos de educação médica para as skills de estudo, tutoria, resolução de questões ou acolhimento inicial do Revalida Forge."
+description: "Routes medical education requests to Revalida Forge skills for study planning, tutoring, question solving, or learner onboarding."
 ---
 
 # Revalida Forge
 
-Escolha a skill pelo objetivo do estudante: `hello-aprendizagem` para começar, `estudo-revalida` para planejamento, `professora-clinica` para explicação guiada e `resolucao-questoes-clinicas` para questões. Mantenha o uso educacional e evite dados identificáveis de pacientes.
+Choose a skill by the learner's goal: `hello-aprendizagem` to get started, `estudo-revalida` for planning, `professora-clinica` for guided explanation, and `resolucao-questoes-clinicas` for practice questions. Keep use educational and avoid identifiable patient data.

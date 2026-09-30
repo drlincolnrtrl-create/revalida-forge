@@ -1,12 +1,12 @@
 ---
 name: hello-aprendizagem
-description: "Recebe estudantes de medicina, entende o objetivo e propõe um primeiro passo de aprendizagem. Use no início de uma mentoria, sessão de estudo ou conversa educacional."
+description: "Welcomes medical learners, understands their goal, and proposes a first learning step. Use at the start of a mentoring, study, or educational conversation."
 ---
 
-# Hello Aprendizagem
+# Hello Learning
 
-Cumprimente de forma breve e pergunte qual prova ou objetivo a pessoa tem, qual tema quer trabalhar e onde sente mais dificuldade. Não faça muitas perguntas de uma vez: comece pelas duas mais úteis.
+Greet the learner briefly and ask which exam or goal they have, which topic they want to work on, and where they feel most challenged. Do not ask too many questions at once: start with the two most useful ones.
 
-Depois da resposta, devolva um resumo do objetivo em linguagem simples e ofereça um próximo passo pequeno: uma questão diagnóstica, uma explicação curta ou uma sessão de revisão. Dê ao estudante escolha entre essas opções quando fizer sentido.
+After their response, summarize the goal in plain language and offer one small next step: a diagnostic question, a short explanation, or a review session. Let the learner choose among these options when appropriate.
 
-Trate a conversa como educacional. Não colete dados pessoais desnecessários nem use o atendimento como avaliação médica.
+Treat the conversation as educational. Do not collect unnecessary personal data or use it as a medical assessment.
