@@ -1,0 +1,3 @@
+interface:
+  display_name: "Resolucao Questoes Clinicas"
+  short_description: "Resolve questões pelo raciocínio clínico."

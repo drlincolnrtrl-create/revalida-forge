@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill Estudo Revalida"
+  short_description: "Transforma questões clínicas em revisões guiadas."
